@@ -1,2 +1,2 @@
 # prak_WSN-IOT
-tambah
+tambah 1
